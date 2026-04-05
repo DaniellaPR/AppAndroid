@@ -39,7 +39,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     ) {
         Text(
             text = "Bienvenido al curso 2026, Android, $name",
-            color = Color.Blue,
+            color = Color.Gray,
             style = MaterialTheme.typography.headlineMedium
         )
     }
