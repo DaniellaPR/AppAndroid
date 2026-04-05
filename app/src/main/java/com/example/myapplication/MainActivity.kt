@@ -38,7 +38,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "Bienvenido al curso 2026, $name",
+            text = "Bienvenido al curso 2026, Android, $name",
             color = Color.Blue,
             style = MaterialTheme.typography.headlineMedium
         )
